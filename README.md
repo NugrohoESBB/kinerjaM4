@@ -32,3 +32,17 @@ tulis logic dari perintah zigzag
 
 ## fhaqih :
 tulis logic dari perintah putar balik
+
+# Ujian tertulis praktikum
+
+## frans A1
+## jesen A2
+## annisa B1
+## anggiat B2
+## jihan C1
+## karno C2
+## pakih D1
+## ferdi E1
+## fawwa E2
+## may F1
+## irfan G1
