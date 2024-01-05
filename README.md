@@ -33,6 +33,17 @@ tulis logic dari perintah zigzag
 ## fhaqih :
 tulis logic dari perintah putar balik
 
+# 
+# jumlah soal paket ujian
+## A = 2
+## B = 2
+## C = 2
+## D = 1
+## E = 2
+## F = 1
+## G = 2
+
+# 
 # Ujian tertulis praktikum
 
 ## frans A1
